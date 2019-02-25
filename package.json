@@ -1,0 +1,32 @@
+{
+  "name": "hello-hapi",
+  "version": "1.0.0",
+  "description": "hello-hapi",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/loveJiong/hello-hapi.git"
+  },
+  "keywords": [
+    "node",
+    "hapi"
+  ],
+  "author": "loveJiong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/loveJiong/hello-hapi/issues"
+  },
+  "homepage": "https://github.com/loveJiong/hello-hapi#readme",
+  "dependencies": {
+    "env2": "^2.2.2",
+    "hapi": "^16.7.0",
+    "hapi-swagger": "^7.10.0",
+    "inert": "^4.2.1",
+    "joi": "^13.7.0",
+    "package": "^1.0.1",
+    "vision": "^4.1.1"
+  }
+}
